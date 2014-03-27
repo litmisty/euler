@@ -1,0 +1,26 @@
+.DS_Store
+*.a
+*.exe
+*.filters
+*.lib
+*.pdb
+*.props
+*.sdf
+*.sln
+*.so
+*.suo
+*.user
+*.vcproj
+*.vcxproj
+*.xcodeproj
+/build.xcodefiles
+/build/build
+/build.makefiles
+/external/build/
+/tools/gyp
+/tools/python
+
+# PyCharm
+.idea/
+build/.idea/
+tools/.idea/
